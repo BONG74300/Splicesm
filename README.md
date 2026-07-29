@@ -7,6 +7,4 @@ Social Media through my School
 It's Just like YouTube, Skype, and Discord combined!
 
 # Things you can Do!
-Posting Videos
-Texting People 
-Video Calling
+Posting Videos Texting People Video Calling
